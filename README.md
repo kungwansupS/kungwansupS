@@ -49,32 +49,3 @@ I don't focus on only one specific area. I like experimenting with different kin
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
-## Current project
-
-### Trace2Policy
-
-Trace2Policy is an early-stage open-source experiment about turning traces, behaviors, and system outputs into clearer policies, tests, and guardrails.
-
-The project is still in the planning and exploration stage, but the long-term goal is to make complex AI systems easier to understand, evaluate, and control.
-
-## My style
-
-I like learning by building.
-
-Some projects may be serious, some may be experimental, and some may start from a simple idea. I use GitHub as a place to collect, improve, and share the things I build over time.
-
-## Interests
-
-* AI / LLMs
-* Developer tools
-* Automation
-* Computer vision
-* Game plugins
-* Web apps
-* Open-source experiments
-* Practical software for real use cases
-
-## Status
-
-I'm currently exploring different project ideas and gradually improving my public repositories.
